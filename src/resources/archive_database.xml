@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cases>
+    <case>
+        <id>1</id>
+        <firstName>Vladislav</firstName>
+        <lastName>Plotnikov</lastName>
+    </case>
+    <case>
+        <id>2</id>
+        <firstName>Alexander</firstName>
+        <lastName>Dugin</lastName>
+    </case>
+    <case>
+        <id>3</id>
+        <firstName>Friedrich</firstName>
+        <lastName>Nietzsche</lastName>
+    </case>
+    <case>
+        <id>4</id>
+        <firstName>Arthur</firstName>
+        <lastName>Shopenhauer</lastName>
+    </case>
+</cases>
